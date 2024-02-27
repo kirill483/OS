@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/lab1.hpp
+utils.hpp
+-
+
+../include/utils.hpp
+stdio.h
+../include/stdio.h
+stdlib.h
+../include/stdlib.h
+unistd.h
+../include/unistd.h
+sys/wait.h
+../include/sys/wait.h
+string.h
+-
+stdio.h
+../include/stdio.h
+stdlib.h
+../include/stdlib.h
+unistd.h
+../include/unistd.h
+sys/wait.h
+../include/sys/wait.h
+
+/mnt/c/Users/Kirill/OS/lab1/tests/tests.cpp
+gtest/gtest.h
+-
+utils.hpp
+-
+lab1.hpp
+-
+

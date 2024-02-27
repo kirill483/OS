@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/lab2.h
+utils.h
+-
+
+../include/utils.h
+stdlib.h
+-
+stdio.h
+-
+math.h
+-
+limits.h
+-
+pthread.h
+-
+time.h
+-
+stdbool.h
+-
+unistd.h
+-
+
+/mnt/c/Users/Kirill/OS/lab2/tests/tests.cpp
+gtest/gtest.h
+-
+utils.h
+-
+lab2.h
+-
+
