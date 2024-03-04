@@ -1,0 +1,1 @@
+/usr/bin/c++  -lzmq   CMakeFiles/Test.dir/tests/tests.cpp.o CMakeFiles/Test.dir/src/topology.cpp.o CMakeFiles/Test.dir/src/socket.cpp.o  -o Test  /usr/lib/x86_64-linux-gnu/libgtest.a -lgtest -lpthread -lzmq 

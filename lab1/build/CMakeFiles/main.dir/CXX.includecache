@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+../include/lab1.hpp
+utils.hpp
+-
+
 ../include/utils.hpp
 stdio.h
 ../include/stdio.h
@@ -26,7 +30,7 @@ unistd.h
 sys/wait.h
 ../include/sys/wait.h
 
-/mnt/c/Users/Kirill/OS/lab1/src/lab1.cpp
-utils.hpp
--
+/mnt/c/Users/Kirill/OS/lab1/main.cpp
+lab1.hpp
+/mnt/c/Users/Kirill/OS/lab1/lab1.hpp
 

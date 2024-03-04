@@ -1,0 +1,1 @@
+g++     CMakeFiles/child.dir/src/child.cpp.o CMakeFiles/child.dir/src/utils.cpp.o  -o child  -pthread -lm -lrt -std=c++17 

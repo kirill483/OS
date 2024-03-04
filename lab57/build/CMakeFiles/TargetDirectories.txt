@@ -1,0 +1,6 @@
+/mnt/c/Users/Kirill/OS/lab57/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Kirill/OS/lab57/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Kirill/OS/lab57/build/CMakeFiles/test.dir
+/mnt/c/Users/Kirill/OS/lab57/build/CMakeFiles/Test.dir
+/mnt/c/Users/Kirill/OS/lab57/build/CMakeFiles/client.dir
+/mnt/c/Users/Kirill/OS/lab57/build/CMakeFiles/server.dir

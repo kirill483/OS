@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/socket.hpp
+iostream
+-
+zmq.hpp
+-
+string
+-
+unistd.h
+-
+sstream
+-
+set
+-
+unordered_map
+-
+optional
+-
+
+../include/topology.hpp
+iostream
+-
+list
+-
+set
+-
+
+/mnt/c/Users/Kirill/OS/lab57/src/control_node.cpp
+topology.hpp
+/mnt/c/Users/Kirill/OS/lab57/src/topology.hpp
+socket.hpp
+/mnt/c/Users/Kirill/OS/lab57/src/socket.hpp
+

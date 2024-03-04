@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/lib.hpp
+iostream
+-
+cmath
+-
+vector
+-
+utils.hpp
+../include/utils.hpp
+
+../include/utils.hpp
+iostream
+-
+cstdlib
+-
+dlfcn.h
+-
+
+/mnt/c/Users/Kirill/OS/lab4/static_main.cpp
+lib.hpp
+/mnt/c/Users/Kirill/OS/lab4/lib.hpp
+iostream
+-
+

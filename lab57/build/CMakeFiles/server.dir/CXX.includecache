@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/socket.hpp
+iostream
+-
+zmq.hpp
+-
+string
+-
+unistd.h
+-
+sstream
+-
+set
+-
+unordered_map
+-
+optional
+-
+
+/mnt/c/Users/Kirill/OS/lab57/src/calculation_node.cpp
+socket.hpp
+/mnt/c/Users/Kirill/OS/lab57/src/socket.hpp
+string
+-
+

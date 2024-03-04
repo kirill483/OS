@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/dynamic_main.dir/dynamic_main.cpp.o CMakeFiles/dynamic_main.dir/src/utils.cpp.o  -o dynamic_main  -ldl 

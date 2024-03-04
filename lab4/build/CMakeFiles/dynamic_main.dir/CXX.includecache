@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/utils.hpp
+iostream
+-
+cstdlib
+-
+dlfcn.h
+-
+
+/mnt/c/Users/Kirill/OS/lab4/dynamic_main.cpp
+utils.hpp
+/mnt/c/Users/Kirill/OS/lab4/utils.hpp
+

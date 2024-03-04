@@ -1,0 +1,6 @@
+/mnt/c/Users/Kirill/OS/cp/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Kirill/OS/cp/build/CMakeFiles/test.dir
+/mnt/c/Users/Kirill/OS/cp/build/CMakeFiles/Test.dir
+/mnt/c/Users/Kirill/OS/cp/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Kirill/OS/cp/build/CMakeFiles/cp_main.dir
+/mnt/c/Users/Kirill/OS/cp/build/CMakeFiles/cp_lib.dir

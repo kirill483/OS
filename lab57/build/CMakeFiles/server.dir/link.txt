@@ -1,0 +1,1 @@
+/usr/bin/c++  -lzmq   CMakeFiles/server.dir/src/topology.cpp.o CMakeFiles/server.dir/src/socket.cpp.o CMakeFiles/server.dir/src/calculation_node.cpp.o  -o server  -lzmq 

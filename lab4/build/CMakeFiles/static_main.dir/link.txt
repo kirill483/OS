@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/static_main.dir/static_main.cpp.o  -o static_main  -Wl,-rpath,/mnt/c/Users/Kirill/OS/lab4/build liblib1.so 

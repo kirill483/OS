@@ -1,0 +1,9 @@
+/mnt/c/Users/Kirill/OS/lab4/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Kirill/OS/lab4/build/CMakeFiles/dynamic_main.dir
+/mnt/c/Users/Kirill/OS/lab4/build/CMakeFiles/static_main.dir
+/mnt/c/Users/Kirill/OS/lab4/build/CMakeFiles/Test2.dir
+/mnt/c/Users/Kirill/OS/lab4/build/CMakeFiles/lib2.dir
+/mnt/c/Users/Kirill/OS/lab4/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Kirill/OS/lab4/build/CMakeFiles/test.dir
+/mnt/c/Users/Kirill/OS/lab4/build/CMakeFiles/Test.dir
+/mnt/c/Users/Kirill/OS/lab4/build/CMakeFiles/lib1.dir

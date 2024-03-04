@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Test.dir/tests/tests.o  -o Test   -L/mnt/c/Users/Kirill/OS/cp/build  -Wl,-Bstatic -lgtest -Wl,-Bdynamic -lgtest -lpthread libcp_lib.a /usr/lib/x86_64-linux-gnu/libgtest.a -lpthread 
